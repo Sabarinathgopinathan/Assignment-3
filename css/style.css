@@ -1,0 +1,19 @@
+/* Author: Sabarinath G */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first {
+    min-height: 50vh;
+    color: white;
+}
+.second {
+    min-height: 50vh;
+}
+
+@media screen and (max-width: 576px) {
+    .mar div {
+        margin-bottom: 15px !important;
+    }
+}
